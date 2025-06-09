@@ -98,17 +98,5 @@ Open your browser and go to: [http://localhost:8000](http://localhost:8000)
 - Activity suggestions
 - Budget planning
 - Travel tips and safety
-- And much more!
-
 ---
 
-## 🛡️ Security Notice
-
-- **Never commit your `firebase_key.json` or `.env` files.**  
-  Add them to `.gitignore` to keep your secrets safe.
-
----
-
-## 📄 License
-
-MIT (or your preferred license)
